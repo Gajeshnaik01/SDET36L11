@@ -10,9 +10,9 @@ public class PraticeTest2 {
 		
 		System.out.println("test2 --> PraticeTest2");
 		System.out.println("test2 --> PraticeTest2");
-		System.out.println("test2 --> PraticeTest2");
-		System.out.println("test2 --> PraticeTest2");
-		System.out.println("test2 --> PraticeTest2");
+		System.out.println("GAJESH");
+		System.out.println("RAJAT");
+		System.out.println("SHIKA");
 		
 		
 		
